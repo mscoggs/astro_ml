@@ -9,5 +9,5 @@ Generating labels for a machine learning algorithm, which will be used to label 
 - pandas
 - numpy
 
-## PAPER
+# Paper
 [APOGEE Net: Improving the Derived Spectral Parameters for Young Stars through Deep Learning](https://ui.adsabs.harvard.edu/abs/2020AJ....159..182O/abstract)
